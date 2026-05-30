@@ -1,0 +1,13 @@
+customer_id,gender,age,city,category,product,price,quantity,payment_method,purchase_date
+C001,Female,29,New York,Apparel,T-Shirt,25,2,Card,2025-01-04
+C002,Male,41,Chicago,Electronics,Headphones,80,1,UPI,2025-01-05
+C003,Female,35,Los Angeles,Grocery,Organic Tea,12,3,Cash,2025-01-06
+C004,Male,24,Houston,Beauty,Skin Serum,30,1,Card,2025-01-07
+C005,Female,53,New York,Home,LED Lamp,45,1,Card,2025-01-08
+C006,Male,33,Seattle,Electronics,Wireless Mouse,22,2,UPI,2025-01-09
+C007,Female,47,Chicago,Apparel,Jeans,60,1,Card,2025-01-09
+C008,Male,39,Los Angeles,Grocery,Protein Bar,4,10,Cash,2025-01-10
+C009,Female,31,Houston,Beauty,Moisturizer,18,2,UPI,2025-01-11
+C010,Male,26,Seattle,Home,Storage Box,14,4,Card,2025-01-12
+C011,Female,44,New York,Electronics,Smart Watch,150,1,Card,2025-01-12
+C012,Male,37,Chicago,Apparel,Sneakers,95,1,UPI,2025-01-13
